@@ -1,6 +1,6 @@
-### Hi there, My name is Ashraf - aka [ATMonshi][website] 👋
+### Hi there, My name is Ashraf - aka [ATMonshi](https://atmonshi.com/) 👋
 
-[![Website](https://img.shields.io/badge/ATM-Blog-blue?style=for-the-badge&logo=appveyor)](https://codestackr.com)
+[![Website](https://img.shields.io/badge/ATM-Blog-blue?style=for-the-badge&logo=appveyor)](https://atmonshi.com)
 
 [![atmonshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=atmonshi&count_private=true&show_icons=true&theme=flag-india)](https://github.com/atmonshi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atmonshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,7 +10,7 @@
 
 ### about me:
 - 🔭 I’m currently working on [Laravel zeus](http://lara-zeus.com)
-- 🌱 I’m currently learning ...
+- 🌱 I’m [TALL stack](https://tallstack.dev/) developer
 - 👯 I’m looking to collaborate more on open source projects
 - 📫 How to reach me: [Contact Me](https://atmonshi.com/contact-me)
 
