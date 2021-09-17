@@ -2,7 +2,8 @@
 
 [![Website](https://img.shields.io/badge/ATM-Blog-blue?style=for-the-badge&logo=appveyor)](https://codestackr.com)
 
-[![atmonshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=atmonshi)](https://github.com/atmonshi/github-readme-stats)
+[![atmonshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=atmonshi&count_private=true&show_icons=true&theme=flag-india)](https://github.com/atmonshi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atmonshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 
