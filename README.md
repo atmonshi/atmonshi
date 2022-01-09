@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Laravel zeus](http://lara-zeus.com)
 - 🌱 I’m [TALL stack](https://tallstack.dev/) developer
 - 👯 I’m looking to collaborate more on open source projects
-- 📫 How to reach me: [Contact Me](https://atmonshi.com/contact-me)
+- 📫 How to reach me: [Contact Me](https://atm-code.com/contact-us/other)
 
 
 ### Languages and Tools:
