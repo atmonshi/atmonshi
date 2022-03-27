@@ -14,6 +14,6 @@
 ### about me:
 - 🌱 I’m [TALL stack](https://tallstack.dev/) developer
 - 👯 I’m looking to collaborate more on open source projects
-- 🔭 I’m currently working on [Laravel zeus](https://lara-zeus.com)
+- 🔭 I’m currently working on [Laravel zeus](https://larazeus.com)
 - 📫 How to reach me: [Contact Me](https://atm-code.com/contact-us/other)
 - 📂 Checkout more of my projects: [atm-code](https://atm-code.com)
