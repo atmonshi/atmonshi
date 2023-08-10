@@ -11,7 +11,7 @@
 ### about me:
 - 🌱 I’m [TALL stack](https://tallstack.dev/) developer
 - 👯 I’m looking to collaborate more on open-source projects
-- 🔭 I’m currently working on [Laravel zeus](https://github.com/lara-zeus), and some clients projects.
+- 🔭 I’m currently working on [Lara zeus](https://github.com/lara-zeus), and some clients projects.
 - 📫 How to reach me: [Contact Me](https://still-code.com/contact-us/other)
-- 📂 Check out more of my projects (new): [still-code](https://still-code.com)
+- 📂 Check out more of my projects: [still-code](https://still-code.com)
 - 💖 [sponser me](https://github.com/sponsors/atmonshi)
