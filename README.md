@@ -6,6 +6,8 @@
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=atmonshi)](https://github.com/LordDashMe/github-contribution-stats/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=atmonshi&theme=ayu-light&border_radius=5)](https://git.io/streak-stats)
+
 <br />
 <br />
 
