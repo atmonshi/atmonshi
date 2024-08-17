@@ -11,9 +11,9 @@
 
 
 ### about me:
-- 🌱 I’m PHP developer currentlyl using [TALL stack](https://tallstack.dev/)
+- 🌱 I’m PHP developer currently using [TALL stack](https://tallstack.dev/)
 - 👯 I’m looking to collaborate more on open-source projects, especially on [filamentPHP](https://github.com/filamentphp/filament/)
 - 🔭 I’m currently working on [Lara zeus](https://github.com/lara-zeus), and some clients projects.
 - 📫 How to reach me: [Contact Me](https://larazeus.com/contact-us)
-- 💖 [sponser me](https://github.com/sponsors/atmonshi) if you like my work.
+- 💖 [sponsor me](https://github.com/sponsors/atmonshi) if you like my work.
 - ☕️ lets have a [cup of coffee](https://buymeacoffee.com/larazeus)
